@@ -92,9 +92,9 @@ Cloud Classroom LMS (Learning Management System) is a cloud-based educational pl
 | CSS3 | Styling |
 | JavaScript | Client-Side Functionality |
 | Bootstrap | Responsive Design |
-| PHP / ASP.NET / Java | Backend Development |
+| PHP  | Backend Development |
 | MySQL | Database Management |
-| Cloud Hosting | Deployment |
+
 
 ---
 
@@ -120,12 +120,7 @@ Cloud Classroom LMS (Learning Management System) is a cloud-based educational pl
 - Result Generation
 - Grade Management
 
-### Notification Module
-- Announcements
-- Alerts
-- Academic Updates
 
----
 
 ## 🔄 Workflow
 
